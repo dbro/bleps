@@ -13,7 +13,8 @@ Devices supported
 -----------------
 
 Tested with a generic USB adapter containing a Texas Instruments [CC2540](https://www.ti.com/product/CC2540) chipset [available from Aliexpress](https://www.aliexpress.com/item/1005001863186352.html).
-![CC2540 USB adapter](https://www.github.com/dbro/bleps/ble-usb-cc2540.jpg)
+
+![CC2540 USB adapter](https://github.com/dbro/bleps/raw/master/ble-usb-cc2540.jpg)
 
 For consistent results, it may be a good idea to flash the firmware of the device with the hex file available from Texas Instruments' packet sniffer software (link below).
 
