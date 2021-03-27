@@ -46,8 +46,7 @@ Installation
     $ make
     $ sudo make install
 
-Depends on these packages: build-essentials, libusb-1.0-0-dev, autoconf
-
+Depends on these packages: build-essentials, libusb-1.0-0-dev, pkg-config
 
 Acknowledgements and alternatives
 ---------------------------------
